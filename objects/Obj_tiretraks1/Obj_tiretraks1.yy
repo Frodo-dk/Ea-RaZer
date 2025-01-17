@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_player1",
+  "%Name":"Obj_tiretraks1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_player1",
+  "name":"Obj_tiretraks1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_bil11",
-    "path":"sprites/Spr_bil11/Spr_bil11.yy",
+    "name":"Spr_tiretraks1",
+    "path":"sprites/Spr_tiretraks1/Spr_tiretraks1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
