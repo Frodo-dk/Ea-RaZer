@@ -39,6 +39,7 @@
   },
   "name":"Ea RaZer",
   "resources":[
+    {"id":{"name":"Obj_camera","path":"objects/Obj_camera/Obj_camera.yy",},},
     {"id":{"name":"Obj_player1","path":"objects/Obj_player1/Obj_player1.yy",},},
     {"id":{"name":"Obj_player2","path":"objects/Obj_player2/Obj_player2.yy",},},
     {"id":{"name":"Obj_politi","path":"objects/Obj_politi/Obj_politi.yy",},},
