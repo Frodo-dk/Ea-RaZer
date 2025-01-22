@@ -17,5 +17,9 @@ for (var i = 0; i < array_length_1d(playerList); ++i) {
 	view_set_camera(i, global.Cameras[i]);
 	
 	//viewport
-	view_xport;
+	view_xport[i] = cameraWidth * i;
+	view_xport[i] = cameraWidth;
 }	
+
+window_set_size(width * scale, height * scale);
+surface_resize(application_surface, width * scale, height * scale);
