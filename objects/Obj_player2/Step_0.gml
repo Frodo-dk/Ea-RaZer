@@ -1,7 +1,7 @@
-var left = keyboard_check(ord("A"));
-var right = keyboard_check(ord("D")); 
+var left = keyboard_check(vk_left);
+var right = keyboard_check(vk_right); 
 
-var drive = keyboard_check(ord("W")); 
+var drive = keyboard_check(vk_up); 
 
 speed = spd;
 
