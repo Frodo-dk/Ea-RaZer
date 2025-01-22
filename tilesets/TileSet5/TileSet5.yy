@@ -1,14 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet3",
+  "%Name":"TileSet5",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet3",
-  "out_columns":3,
+  "name":"TileSet5",
+  "out_columns":4,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Spr_Roads2",
-    "path":"sprites/Spr_Roads2/Spr_Roads2.yy",
+    "name":"Sprite22",
+    "path":"sprites/Sprite22/Sprite22.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":512,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":9,
+  "tile_count":18,
 }
