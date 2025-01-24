@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_politi",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_cheakpoint",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_politi",
+  "name":"Obj_cheakpoint",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_politi_1",
-    "path":"sprites/Spr_politi_1/Spr_politi_1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
