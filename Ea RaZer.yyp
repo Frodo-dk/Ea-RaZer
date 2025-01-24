@@ -39,9 +39,11 @@
   },
   "name":"Ea RaZer",
   "resources":[
+    {"id":{"name":"Obj_camera","path":"objects/Obj_camera/Obj_camera.yy",},},
     {"id":{"name":"Obj_player1","path":"objects/Obj_player1/Obj_player1.yy",},},
     {"id":{"name":"Obj_player2","path":"objects/Obj_player2/Obj_player2.yy",},},
     {"id":{"name":"Obj_politi","path":"objects/Obj_politi/Obj_politi.yy",},},
+    {"id":{"name":"ihui","path":"rooms/ihui/ihui.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Spr_bil11","path":"sprites/Spr_bil11/Spr_bil11.yy",},},
     {"id":{"name":"Spr_bil12","path":"sprites/Spr_bil12/Spr_bil12.yy",},},
@@ -73,6 +75,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"ihui","path":"rooms/ihui/ihui.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
