@@ -2,6 +2,7 @@ var left = keyboard_check(ord("A"));
 var right = keyboard_check(ord("D")); 
 
 var drive = keyboard_check(ord("W")); 
+var reverse = keyboard_check(ord("S")); 
 
 speed = spd;
 
@@ -9,6 +10,7 @@ if (left)  {direction += 2;}
 if (right) {direction -= 2;} 
 
 if (drive == 1) {spd = 20;}
+if (reverse == 1) {spd = -10;}
 
 else {spd = 0;}
 
