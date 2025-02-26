@@ -45,7 +45,7 @@
   "origin":4,
   "parent":{
     "name":"bil 1",
-    "path":"folders/Sprites/bil 1.yy",
+    "path":"folders/Tile Sets/Sprites/bil 1.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
