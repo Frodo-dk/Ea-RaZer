@@ -6,8 +6,8 @@ var drive = keyboard_check(ord("W"));
 
 speed = spd;
 
-if (left)  {direction += 2;} 
-if (right) {direction -= 2;} 
+if (left)  {direction += 2.5;} 
+if (right) {direction -= 2.5;} 
 
 if (drive == 1) {spd = 20;}
 
