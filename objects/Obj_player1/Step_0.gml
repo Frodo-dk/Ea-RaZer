@@ -3,12 +3,14 @@ var right = keyboard_check(ord("D"));
 
 var drive = keyboard_check(ord("W")); 
 
+
 speed = spd;
 
 if (left)  {direction += 2;} 
 if (right) {direction -= 2;} 
 
 if (drive == 1) {spd = 20;}
+
 
 else {spd = 0;}
 
