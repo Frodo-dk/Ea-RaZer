@@ -47,6 +47,7 @@
     {"id":{"name":"Obj_politi","path":"objects/Obj_politi/Obj_politi.yy",},},
     {"id":{"name":"Obj_tiretraks1","path":"objects/Obj_tiretraks1/Obj_tiretraks1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Sou_bil","path":"sounds/Sou_bil/Sou_bil.yy",},},
     {"id":{"name":"Spr_bil11","path":"sprites/Spr_bil11/Spr_bil11.yy",},},
     {"id":{"name":"Spr_bil12","path":"sprites/Spr_bil12/Spr_bil12.yy",},},
@@ -74,6 +75,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
