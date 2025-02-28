@@ -45,7 +45,7 @@
   "origin":9,
   "parent":{
     "name":"Backround",
-    "path":"folders/Tile Sets/Sprites/Tile/Backround.yy",
+    "path":"folders/Sprites/Tile/Backround.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

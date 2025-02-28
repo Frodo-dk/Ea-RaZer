@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Politi Bil",
-    "path":"folders/Tile Sets/Sprites/Politi Bil.yy",
+    "path":"folders/Sprites/Politi Bil.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
