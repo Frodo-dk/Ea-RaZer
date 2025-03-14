@@ -1,4 +1,4 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
 
 direction = 90;
@@ -10,3 +10,5 @@ spd = 0;
  time = amount;
 
 #endregion
+
+hp = 5;

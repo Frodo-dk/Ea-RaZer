@@ -1,11 +1,11 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
 playerList[0] = Obj_player1;
 playerList[1] = Obj_player2;
 
 view_enabled = true;
 
-var width = 960, height = 540, scale = 1.5;
+var width = 1920, height = 1080, scale = 1;
 
 global.Cameras = undefined;
 for(var i = 0; i < array_length_1d(playerList); ++i) {
