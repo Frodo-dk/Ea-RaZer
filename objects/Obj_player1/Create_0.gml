@@ -10,3 +10,6 @@ spd = 0;
  time = amount;
 
 #endregion
+
+
+hp = 10;
