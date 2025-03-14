@@ -9,10 +9,24 @@ speed = spd;
 if (left)  {direction += 3;} 
 if (right) {direction -= 3;} 
 
-if (drive == 1) {spd = 23;}
+if (drive == 1) {
+audio_play_sound(Sou_bil2, 2, false);
+
+if (sprite_index = Spr_Bil2_1){
+spd = 20;}
+else if (sprite_index = Spr_Bil2_2){
+spd = 18;  }
+else if (sprite_index = Spr_Bil2_3){
+spd = 16;}
+else if (sprite_index = Spr_Bil2_4){
+spd = 14;}
+else {spd = 12;}
+}
+else {spd = 0;
+audio_stop_sound(Sou_bil2)
+}
 
 
-else {spd = 0;}
 
 image_angle = direction;
 

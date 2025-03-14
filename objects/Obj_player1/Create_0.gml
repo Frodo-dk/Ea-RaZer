@@ -12,4 +12,4 @@ spd = 0;
 #endregion
 
 
-hp = 10;
+hp = 20;
