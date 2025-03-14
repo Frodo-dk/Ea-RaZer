@@ -6,10 +6,10 @@ var drive = keyboard_check(vk_up);
 
 speed = spd;
 
-if (left)  {direction += 2;} 
-if (right) {direction -= 2;} 
+if (left)  {direction += 3;} 
+if (right) {direction -= 3;} 
 
-if (drive == 1) {spd = 20;}
+if (drive == 1) {spd = 23;}
 
 
 else {spd = 0;}
