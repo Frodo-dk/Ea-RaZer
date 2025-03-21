@@ -6,8 +6,8 @@ var drive = keyboard_check(ord("W"));
 
 speed = spd;
 
-if (left)  {direction += 2;} 
-if (right) {direction -= 2;} 
+if (left)  {direction += 3;} 
+if (right) {direction -= 3;} 
 
 if (drive == 1) {
 audio_play_sound(Sou_bil1, 1, false);
@@ -45,3 +45,31 @@ if (drive) {
 }
 
 #endregion
+
+
+
+//Cheack points
+
+if (place_meeting(x,y,Obj_cheakpoint) && cooldown<1)  {
+	checkpointramt1 += 1 ;
+	cooldown = cooldown + 400;
+};
+
+if (cooldown > -1)
+{
+cooldown = cooldown - 5;
+}
+
+
+if (place_meeting(x,y,Object10) && (checkpointramt1 >= 10 and checkpointramt1 <=13)) {
+	global.laps1 = global.laps1 + 2;
+	checkpointramt1 = 0;
+	cooldown2 = cooldown2 + 400;
+	
+};
+if (cooldown2 > -1)
+{
+cooldown2 = cooldown2 - 5;
+}
+
+

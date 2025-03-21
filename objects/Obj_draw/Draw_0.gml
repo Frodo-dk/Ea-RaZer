@@ -8,7 +8,12 @@ var cw1 = camera_get_view_width(view_camera[0]);
 
 
 draw_text(cx1+cw1/2, cy1+32, "Player 1");
-draw_text(cx1+cw1/2, cy1+50, "lap " + string(laps1));
+draw_text(cx1+cw1/2, cy1+50, "lap " + string(global.laps1));
+
+if (global.laps1 >= 4)
+{ 
+	draw_text(cx1+cw1/2, cy1+200,"DU HAR GENNEMFØRT BANEN");
+};
 
 
 
@@ -17,4 +22,8 @@ var cy2 = camera_get_view_y(view_camera[1]);
 var cw2 = camera_get_view_width(view_camera[1]);
 
 draw_text(cx2+cw2/2, cy2+32, "Player 2");
-draw_text(cx2+cw2/2, cy2+50, "lap " + string(laps2));
+draw_text(cx2+cw2/2, cy2+50, "lap " + string(global.laps2));
+if (global.laps2 >= 4)
+{ 
+	draw_text(cx2+cw2/2, cy2+200,"DU HAR GENNEMFØRT BANEN");
+};
