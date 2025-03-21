@@ -8,4 +8,4 @@ var l59C6C715_0;l59C6C715_0 = mouse_check_button(mb_left);if (l59C6C715_0){
 /// @DnDHash : 0696837F
 /// @DnDArgument : "room" "Room2"
 /// @DnDSaveInfo : "room" "Room2"
-room_goto(Room2);
+room_goto(bane);
