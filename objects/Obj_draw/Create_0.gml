@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-spd=10;
-hp=10;
+
+laps1 = 1;
+laps2 = 1;
+

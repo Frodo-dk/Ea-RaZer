@@ -1,4 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-spd=10;
-hp=10;
+
+touched1=0;
+cooldown=600;
+cooldownTime=cooldown;
+countAfterDistance=400;
+
