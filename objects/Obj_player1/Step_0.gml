@@ -6,8 +6,8 @@ var drive = keyboard_check(ord("W"));
 
 speed = spd;
 
-if (left)  {direction += 2;} 
-if (right) {direction -= 2;} 
+if (left)  {direction += 3;} 
+if (right) {direction -= 3;} 
 
 if (drive == 1) {
 audio_play_sound(Sou_bil1, 1, false);
