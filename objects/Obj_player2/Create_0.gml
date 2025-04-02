@@ -12,3 +12,10 @@ spd = 0;
 #endregion
 
 hp=20;
+
+checkpointramt2 = -1; 
+
+cooldowng = 200;
+cooldown2g = 200;
+
+wing = 0
