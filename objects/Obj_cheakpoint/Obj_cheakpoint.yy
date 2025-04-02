@@ -32,5 +32,5 @@
     "path":"sprites/Spr_cheackpoint/Spr_cheackpoint.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
