@@ -59,7 +59,7 @@ cooldowng = cooldowng - 5;
 
 
 if (place_meeting(x,y,Object10) && (checkpointramt2 >= 15)) {
-	global.laps2 = global.laps2 + 2;
+	global.laps2 = global.laps2 + 4;
 	checkpointramt2 = 0;
 	cooldown2g = cooldown2g + 400;
 	
