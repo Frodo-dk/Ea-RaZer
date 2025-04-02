@@ -41,7 +41,9 @@
   "resources":[
     {"id":{"name":"Obj_Bush","path":"objects/Obj_Bush/Obj_Bush.yy",},},
     {"id":{"name":"Obj_camera","path":"objects/Obj_camera/Obj_camera.yy",},},
+    {"id":{"name":"Obj_cheakpoint","path":"objects/Obj_cheakpoint/Obj_cheakpoint.yy",},},
     {"id":{"name":"Obj_colisone","path":"objects/Obj_colisone/Obj_colisone.yy",},},
+    {"id":{"name":"Obj_draw","path":"objects/Obj_draw/Obj_draw.yy",},},
     {"id":{"name":"Obj_House","path":"objects/Obj_House/Obj_House.yy",},},
     {"id":{"name":"Obj_player1","path":"objects/Obj_player1/Obj_player1.yy",},},
     {"id":{"name":"Obj_player2","path":"objects/Obj_player2/Obj_player2.yy",},},
@@ -66,6 +68,7 @@
     {"id":{"name":"Spr_Bil2_3","path":"sprites/Spr_Bil2_3/Spr_Bil2_3.yy",},},
     {"id":{"name":"Spr_Bil2_4","path":"sprites/Spr_Bil2_4/Spr_Bil2_4.yy",},},
     {"id":{"name":"Spr_Bil2_5","path":"sprites/Spr_Bil2_5/Spr_Bil2_5.yy",},},
+    {"id":{"name":"Spr_cheackpoint","path":"sprites/Spr_cheackpoint/Spr_cheackpoint.yy",},},
     {"id":{"name":"Spr_politi_1","path":"sprites/Spr_politi_1/Spr_politi_1.yy",},},
     {"id":{"name":"Spr_politi_2","path":"sprites/Spr_politi_2/Spr_politi_2.yy",},},
     {"id":{"name":"Spr_politi_3","path":"sprites/Spr_politi_3/Spr_politi_3.yy",},},

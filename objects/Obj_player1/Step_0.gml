@@ -45,3 +45,28 @@ if (drive) {
 }
 
 #endregion
+
+
+//Cheack points
+
+if (place_meeting(x,y,Obj_cheakpoint) && cooldown<1)  {
+	checkpointramt1 += 1 ;
+	cooldown = cooldown + 400;
+};
+
+if (cooldown > -1)
+{
+cooldown = cooldown - 5;
+}
+
+
+if (place_meeting(x,y,Object10) && (checkpointramt1 >= 15)) {
+	global.laps1 = global.laps1 + 2;
+	checkpointramt1 = 0;
+	cooldown2 = cooldown2 + 400;
+	
+};
+if (cooldown2 > -1)
+{
+cooldown2 = cooldown2 - 5;
+}

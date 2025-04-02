@@ -13,3 +13,10 @@ spd = 0;
 
 
 hp = 20;
+
+checkpointramt1 = -1; 
+
+cooldown = 200;
+cooldown2 = 200;
+
+win = 0
